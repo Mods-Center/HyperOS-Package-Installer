@@ -14,3 +14,6 @@ Modified version of HyperOS Package Installer with new UI and app informations
 - Ability to install system apps
 - Removed ads and unnecessary popups
 - Added new informations on installing screen
+
+### Important
+Global roms may face bootloop issues while installing, try at your own risk
