@@ -13,25 +13,25 @@
 
 </div>
 
-## ✨ Features
+## Features
 - New UI that shows more information about the app being installed
 - System apps can be installed
 - No ads or pop-ups
 - HyperOS 4 support (base 5.5.4.0.0)
 
-## 📋 Requirements
+## Requirements
 - HyperOS
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/HyperOS-Package-Installer/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## ⚠️ Notes
-- ⚠️ Some Global ROMs may bootloop with this module. Install at your own risk, and keep a way to remove modules from recovery.
+## Notes
+- Some Global ROMs may bootloop with this module. Install at your own risk, and keep a way to remove modules from recovery.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc77c4c4-6438-4253-85ea-e7e549f4763a" width="23%" alt="HyperOS Package Installer"/>
   <img src="https://github.com/user-attachments/assets/d18c7931-baa2-4df4-9dc1-3732872ec52d" width="23%" alt="HyperOS Package Installer"/>
@@ -43,8 +43,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/HyperOS-Package-Installer/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-Package-Installer/issues)
 
 </div>
